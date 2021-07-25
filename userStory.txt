@@ -1,0 +1,8 @@
+
+Pokemon Top Trumps - User Story
+
+As a player of tip trumps and lover of Pokemon, the user wants a simple game of top trumps to 
+play against the computer. They want their score and the score of the computer to be recorded 
+and displayed, and a clear win-condition to be made apparent, so that they may enjoy the game
+and know if and when they have won. 
+
